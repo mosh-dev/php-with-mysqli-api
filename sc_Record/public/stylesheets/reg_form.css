@@ -1,0 +1,229 @@
+
+.heading{
+    background-color: rgba(0, 0, 0, 0.40);
+}
+
+form.register{
+    box-shadow: 0px 0px 25px -5px;
+    width: 960px;
+    margin: 0px auto;
+    background-color: rgba(3, 3, 3, 0.6);
+}
+
+form.register legend {
+    color: #FBFBFB;
+    padding: 10px;
+    margin-left: 20px;
+    border-radius: 3px;
+    background-color: rgb(52, 99, 53);
+    text-shadow: 1px 1px 1px #363636;
+    box-shadow: 0px 2px 3px -1px #000;
+}
+form.register label{
+    color:#444;
+    width:130px;
+    float: left;
+    text-align: right;
+    margin-right: 6px;
+    margin-top:2px;
+    height: 25px;
+    line-height: 25px;
+}
+
+form.register select{
+    border: 0px solid;
+    height: 30px;
+    width: 82px;
+    margin-left: 5px;
+    background-color: rgba(110, 110, 110, 0.56);
+    color: #FFF;
+}
+
+form.register input{
+    width: 142px;
+    color: #FFF;
+    float: left;
+    margin-right: 5px;
+}
+form.register input[type=text]{
+    height: 30px;
+    width: 230px;
+    margin: 5px;
+    padding-left: 10px;
+    background-color: rgba(3, 3, 3, 0.31);
+}
+
+form.register input[type=checkbox] {
+    width:14px;
+    margin-top:5px;
+}
+
+form.register input[type=radio]{
+    float:left;
+    width:15px;
+}
+
+form.register input.year[type="text"] {
+    border: 0px solid;
+    height: 30px;
+    width: 48px;
+    float: none;
+}
+form.register input[type=password]{
+    height: 30px;
+    width: 230px;
+    margin: 5px;
+    padding-left: 10px;
+    background-color: rgba(3, 3, 3, 0.31);
+}
+form.register input[type=number]{
+    border: 0px solid;
+    height: 30px;
+    width: 230px;
+    margin: 5px;
+    padding-left: 10px;
+}
+form.register input[type=email]{
+    height: 30px;
+    width: 230px;
+    margin: 5px;
+    padding-left: 10px;
+    background-color: rgba(3, 3, 3, 0.31);
+}
+
+form.register input[type=file]
+{
+    width: 200px;
+    margin: 70px 50px 20px;
+
+}
+
+
+form.register fieldset.row1{
+    border-top: 1px solid #8BE200;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+
+form.register fieldset.row2{
+    border-top: 1px solid #8BE200;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+form.register fieldset.row3{
+    border-top: 1px solid #8BE200;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+form.register fieldset.row4
+{
+    border-top: 1px solid #8BE200;
+    padding: 30px 60px 30px 0px;
+    clear: both;
+    margin-top: 30px;
+    width: auto;
+}
+
+
+form p{
+    font-size: 13px;
+    clear:both;
+    margin: 0;
+    color:#656565;
+    padding:4px;
+}
+
+p.info{
+    font-size:7pt;
+    color: gray;
+}
+
+p.agreement{
+    margin-left:100px;
+}
+p.agreement label{
+    width:300px !important;
+    text-align:left !important;
+    margin-top:-2px !important;
+}
+
+
+.reg_btn
+{
+    padding: 8px 10px;
+    color: #FFF;
+    text-decoration: none;
+    float: right;
+    font-size: 15px;
+    background-color: #346335;
+    box-shadow: 0px 5px 15px -8px #4B4B4B;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px
+}
+
+.reg_btn:hover{
+    background-color: #6A933D;
+}
+.r1c1{
+    float: left;
+    width: 300px;
+    height: auto;
+    margin-left: 40px;
+    padding: 15px;
+}
+.r1c2{
+    float: left;
+    width: 270px;
+    height: auto;
+    background-color: rgba(59, 104, 61, 0.34);
+    padding: 15px;
+    border-radius: 3px;
+}
+
+.r1c2 h4{
+    color: #FFF;
+}
+.r1c3{
+    float: left;
+    width: 200px;
+    height: 156px;
+
+}
+
+.r2c1{
+    float: left;
+    height: auto;
+    margin-left: 170px;
+}
+.r2c2{
+    float: left;
+    height: auto;
+    margin-left: 40px;
+}
+.r3c1{
+    float: left;
+    height: auto;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.r3c2{
+    float: left;
+    height: auto;
+    margin-left: 80px;
+}
+
+.r3c2 h4{
+    color: #515151;
+}
+
+.info{
+    width: 460px !important;
+    height: 120px !important;
+    border: 0px solid;
+    background-color: rgba(0, 0, 0, 0.38);
+    color: white;
+}
+.select{
+    margin: 5px;
+}

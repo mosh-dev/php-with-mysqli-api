@@ -1,0 +1,22 @@
+.error{
+    width: 240px;
+    float: left;
+    font-size: 12px;
+    line-height: 28px;
+    margin: 100px 0px 25px 50px;
+}
+
+.errorul{
+    padding: 10px 10px 10px 25px;
+    list-style: inherit;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.top{
+    border-radius: 10px 10px 0px 0px;
+    font-weight: bold;
+    color: #F6F6F6;
+    background-color: rgb(251, 68, 0);
+    padding: 10px;
+}
+

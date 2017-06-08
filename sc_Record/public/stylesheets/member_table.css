@@ -1,0 +1,45 @@
+table{
+	width: 100%;
+	background-color: rgba(26, 26, 26, 0.9);
+}
+
+tr{
+	height: 60px;
+}
+
+th{
+	font-size: 15px;
+	color: #9CE90F;
+	background-color: rgba(50, 50, 50, 0.85);
+	border-top: 1px solid #0CB502;
+	font-weight: bold;
+}
+
+td{
+	text-align: center;
+	border: 1px solid #0CB502;
+	color: #FFF;
+}
+
+th.action{
+	width: 200px;
+
+}
+
+.action_btn{
+	padding: 10px 10px;
+	color: #FFF;
+	background-color: rgba(12, 181, 2, 0.6);
+	text-shadow: 1px 1px 1px #000;
+	margin: 0px auto;
+	width: 100%;
+
+}
+.action_btn:hover{
+	background-color: #037FD2;
+}
+
+.member_set{
+	height: 570px;
+	overflow: auto;
+}

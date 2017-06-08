@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Acme';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Acme'), local('Acme-Regular'), url(../resources/acme/acme.woff2) format('woff2'), url(../resources/acme/acme.woff) format('woff');
+}
