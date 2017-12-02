@@ -1,2 +1,7 @@
-# Savar-Cyclists-Member-database
-a full featured project For a local group SAVAR CYCLISTS. To record their information in detail
+# Raw Php Best Practices
+###Covered topics
+  *functional programming with php and mysqli api
+  *Authentication
+  *Encryption
+  *session, forms
+  *file upload.
