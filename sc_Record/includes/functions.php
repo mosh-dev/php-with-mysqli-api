@@ -176,7 +176,7 @@
 		return $output;
 	}
 
-	 //  Conditional Delet button function For  deleting coments
+	 //  Conditional Delete button function For  deleting comments
 	function delete_comment($post_id, $post_owner_id,$comment_owner_id, $comment_id){
 		$output = "";
 		if ($_SESSION['id'] == $post_owner_id or $_SESSION['id'] == $comment_owner_id or $_SESSION['access'] == 3) {
